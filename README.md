@@ -85,7 +85,7 @@ React Native and Expo for iOS, Android and web from one codebase, with Firebase 
 ## Docs
 
 - [Product spec](docs/SPEC.md)
-- [Roadmap](ROADMAP.md)
+- [Roadmap](docs/ROADMAP.md)
 
 ## Feedback
 
