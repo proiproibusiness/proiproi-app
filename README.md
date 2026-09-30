@@ -21,11 +21,9 @@ Proiproi is a lightweight platform for anyone with a project and an incomplete t
 
 ### Web
 
-![Explore map on web](screenshots/web-explore.png)
-
-| Landing page | Community |
-| --- | --- |
-| ![Landing page](screenshots/web-landing.png) | ![Community page](screenshots/web-community.png) |
+| Landing page | Explore | Community |
+| --- | --- | --- |
+| ![Landing page](screenshots/web-landing.png) | ![Explore map on web](screenshots/web-explore.png) | ![Community page](screenshots/web-community.png) |
 
 ---
 
